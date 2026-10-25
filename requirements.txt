@@ -1,0 +1,9 @@
+# Runtime dependencies (Python 3.11, Windows x64)
+pywin32==312
+psutil==7.2.2
+Pillow==13.0.0
+pystray==0.19.5
+six==1.17.0
+
+# Build tool: used only by build.bat to produce dist\ServiceCreator.exe
+pyinstaller==6.22.3
